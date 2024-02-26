@@ -16,5 +16,3 @@ FILE_PATH = abspath(
 # QRコード作成
 code = qrcode.make('https://github.com/blossom-engineer/QRCodeTest/tree/main')
 code.save(FILE_PATH)
-
-code.show()
