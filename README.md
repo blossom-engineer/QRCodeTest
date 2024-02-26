@@ -1,0 +1,2 @@
+# QRCodeTest
+PythonでQRコードを扱うためのテストコード
